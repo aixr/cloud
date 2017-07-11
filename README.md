@@ -1,6 +1,6 @@
 ### Altered Cloudnetmooc SDN files.
 
-#### Installing:
+#### Installing (Debian/Ubuntu):
 
 install git: `sudo apt-get install git`
 
