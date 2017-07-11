@@ -1,6 +1,11 @@
 ### Altered Cloudnetmooc SDN files.
 
 #### Installing:
+
+install git: `sudo apt-get install git`
+
+Then:
+
 ```
 git clone https://github.com/aixr/cloud
 cd cloud
